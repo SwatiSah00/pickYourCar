@@ -10,7 +10,7 @@ Router.map(function() {
   this.route('about');
   this.route('contact');
   this.route('seecars');
-  //this.route('index');
+  this.route('buy');
 });
 
 export default Router;
